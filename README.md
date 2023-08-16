@@ -6,7 +6,7 @@ Make sure to set the API key inside the patch.
 
 The patch has some limitations that make it not feasible to use in day-to-day prototyping.
 
-![demo](https://github.com/alexwidua/origami-generative-patch/assets/12382286/f8b00554-1862-4633-98d0-8b7330bb2306)
+<img src="media/demo.gif" width="100%" max-width="600px"/>
 
 ## Limitations
 
